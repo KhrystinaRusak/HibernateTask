@@ -17,9 +17,24 @@ public class Student {
     @Column(name="group_head")
     private boolean group_head;
 
+    @Column(name="group")
+    private int group;
+
     @ManyToOne
     @JoinColumn(name = "group_id")
     private Student student;
+
+    public void setGroup(int group) {
+        this.group = group;
+    }
+
+    public Student getStudent() {
+        return student;
+    }
+
+    public void setStudent(Student student) {
+        this.student = student;
+    }
 
     public int getId() {
         return id;
@@ -53,11 +68,5 @@ public class Student {
         this.group_head = group_head;
     }
 
-    public student.Student getGroup() {
-        return group;
-    }
 
-    public void setGroup(student.Student group) {
-        this.group = group;
-    }
 }

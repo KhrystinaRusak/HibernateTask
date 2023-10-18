@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="22c42921-30c5-4b58-b784-b948e9be866b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/student/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/student/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/student/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/student/HibernateUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/student/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/student/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/student/Student.java" afterDir="false" />
@@ -66,6 +66,8 @@
       <workItem from="1697454918201" duration="1725000" />
       <workItem from="1697459836122" duration="86000" />
       <workItem from="1697471944409" duration="434000" />
+      <workItem from="1697475331099" duration="5000" />
+      <workItem from="1697605623516" duration="2471000" />
     </task>
     <servers />
   </component>
